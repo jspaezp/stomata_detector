@@ -12,7 +12,7 @@ Color code represents the confidence score of the match. Dark blue is confidence
 
 ```zsh
 pip install git+https://github.com/fizyr/keras-retinanet
-git clone {{path to the github repo}}
+git clone https://github.com/jspaezp/stomata_detector
 ```
 
 ## Setting up data for training
